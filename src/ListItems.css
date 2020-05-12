@@ -1,0 +1,36 @@
+.list{
+    color: #fff;
+    width: 300px;
+    margin: 30px auto;
+    height: 50px;
+    background-color: #89d6a4;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.list p{
+    padding: 10px;
+    position: relative;
+   }
+.list p input{
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+}
+.list p span{
+    position: absolute;
+    right: 10px;
+}
+button:hover{
+    cursor:pointer;
+    background-color:#018034;
+}
+button{
+border-radius: 5px;
+  border: 0;
+  background-color:#9ca19e;
+  height: 30px;
+  width: 50px;
+  color: #fff;
+  margin:2px;
+}
